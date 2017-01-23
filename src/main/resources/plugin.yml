@@ -1,0 +1,10 @@
+name: HomeSpawnNoFall
+version: ${project.version}
+main: net.lapismc.homespawnnofall.HomeSpawnNoFall
+depend: [HomeSpawn]
+authors: [Dart2112]
+description: Stops players using /home or /spawn while falling
+permissions:
+  homespawnnofall.exclude:
+    default: op
+    description: Allows a player to teleport while falling
