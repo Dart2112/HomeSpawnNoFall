@@ -1,7 +1,7 @@
 package net.lapismc.homespawnnofall;
 
-import net.lapismc.HomeSpawn.api.events.HomeTeleportEvent;
-import net.lapismc.HomeSpawn.api.events.SpawnTeleportEvent;
+import net.lapismc.homespawn.api.events.HomeTeleportEvent;
+import net.lapismc.homespawn.api.events.SpawnTeleportEvent;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
